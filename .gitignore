@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Base de données
+school_data.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Exports et sauvegardes (générés automatiquement)
+exports/
+backups/
+
+# Logs
+*.log
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/settings.json
+.vscode/launch.json
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Installer
+installer/
+installer_output/
+version_info.txt
+BUILD_INFO.txt

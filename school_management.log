@@ -1,0 +1,77 @@
+2026-02-18 11:57:20,223 [INFO] database.init_db — ✅ École par défaut créée (active)
+2026-02-18 11:57:20,772 [INFO] database.init_db — ✅ Administrateur: admin / Admin@2025
+2026-02-18 11:57:20,772 [INFO] database.init_db — ✅ 10 matières créées
+2026-02-18 11:57:20,904 [INFO] database.init_db — 🎉 Initialisation terminée!
+2026-02-18 11:57:20,904 [INFO] __main__ — ✅ Base de données initialisée
+2026-02-18 11:57:20,963 [INFO] utils.scheduler — ✅ Planificateur démarré
+2026-02-18 11:57:20,963 [INFO] __main__ — ✅ Planificateur de tâches démarré
+2026-02-18 11:57:51,237 [INFO] __main__ — ✅ Connexion: Administrateur Principal [ADMINISTRATEUR]
+2026-02-18 11:57:53,071 [INFO] utils.scheduler — Planificateur arrêté
+2026-02-18 11:57:53,090 [INFO] __main__ — Application fermée proprement
+2026-02-18 18:41:59,379 [INFO] database.init_db — 🎉 Initialisation terminée!
+2026-02-18 18:41:59,395 [INFO] __main__ — ✅ Base de données initialisée
+2026-02-18 18:41:59,495 [INFO] utils.scheduler — ✅ Planificateur démarré
+2026-02-18 18:41:59,496 [INFO] __main__ — ✅ Planificateur de tâches démarré
+2026-02-18 18:42:43,152 [INFO] __main__ — ✅ Connexion: Administrateur Principal [ADMINISTRATEUR]
+2026-02-18 18:57:52,255 [INFO] utils.scheduler — Planificateur arrêté
+2026-02-18 18:57:52,277 [INFO] __main__ — Application fermée proprement
+2026-02-18 19:05:06,088 [INFO] database.init_db — 🎉 Initialisation terminée!
+2026-02-18 19:05:06,088 [INFO] __main__ — ✅ Base de données initialisée
+2026-02-18 19:05:06,088 [INFO] utils.scheduler — ✅ Planificateur démarré
+2026-02-18 19:05:06,088 [INFO] __main__ — ✅ Planificateur de tâches démarré
+2026-02-18 19:05:15,741 [INFO] __main__ — ✅ Connexion: rakoto maminiaina [SECRETAIRE]
+2026-02-18 19:08:53,946 [INFO] utils.scheduler — Planificateur arrêté
+2026-02-18 19:08:53,970 [INFO] __main__ — Application fermée proprement
+2026-02-18 19:12:13,251 [INFO] database.init_db — 🎉 Initialisation terminée!
+2026-02-18 19:12:13,251 [INFO] __main__ — ✅ Base de données initialisée
+2026-02-18 19:12:13,251 [INFO] utils.scheduler — ✅ Planificateur démarré
+2026-02-18 19:12:13,251 [INFO] __main__ — ✅ Planificateur de tâches démarré
+2026-02-18 19:12:20,285 [INFO] __main__ — ✅ Connexion: rakoto maminiaina [SECRETAIRE]
+2026-02-18 19:12:26,246 [INFO] views.student_management — 🔵 Ouverture formulaire ajout élève...
+2026-02-18 19:12:26,246 [INFO] views.student_management — 🔵 Création formulaire StudentForm (id=None)...
+2026-02-18 19:12:26,331 [INFO] views.student_management — ✅ Formulaire affiché
+2026-02-18 19:15:08,471 [INFO] utils.scheduler — Planificateur arrêté
+2026-02-18 19:15:08,479 [INFO] __main__ — Application fermée proprement
+2026-02-19 10:51:26,288 [INFO] database.init_db — 🎉 Initialisation terminée!
+2026-02-19 10:51:26,303 [INFO] __main__ — ✅ Base de données initialisée
+2026-02-19 10:51:26,335 [INFO] utils.scheduler — ✅ Planificateur démarré
+2026-02-19 10:51:26,335 [INFO] __main__ — ✅ Planificateur de tâches démarré
+2026-02-19 10:53:20,545 [INFO] __main__ — ✅ Connexion: Administrateur Principal [ADMINISTRATEUR]
+2026-02-19 11:05:15,554 [INFO] utils.backup_manager — ✅ Sauvegarde créée: manual_backup_20260219_110515.zip (0.01 MB)
+2026-02-19 11:09:44,659 [INFO] utils.scheduler — Planificateur arrêté
+2026-02-19 11:18:02,137 [INFO] views.student_management — 🔵 Ouverture formulaire ajout élève...
+2026-02-19 11:18:02,137 [INFO] views.student_management — 🔵 Création formulaire StudentForm (id=None)...
+2026-02-19 11:18:02,202 [INFO] views.student_management — ✅ Formulaire affiché
+2026-02-19 11:21:35,608 [INFO] views.student_management — 🔵 Ouverture formulaire ajout élève...
+2026-02-19 11:21:35,608 [INFO] views.student_management — 🔵 Création formulaire StudentForm (id=None)...
+2026-02-19 11:21:35,672 [INFO] views.student_management — ✅ Formulaire affiché
+2026-02-19 11:58:34,824 [INFO] utils.scheduler — Planificateur arrêté
+2026-02-19 11:58:34,849 [INFO] __main__ — Application fermée proprement
+2026-02-19 13:16:29,771 [INFO] database.init_db — 🎉 Initialisation terminée!
+2026-02-19 13:16:29,794 [INFO] __main__ — ✅ Base de données initialisée
+2026-02-19 13:16:29,853 [INFO] utils.scheduler — ✅ Planificateur démarré
+2026-02-19 13:16:29,854 [INFO] __main__ — ✅ Planificateur de tâches démarré
+2026-02-19 13:17:08,475 [INFO] __main__ — ✅ Connexion: Administrateur Principal [ADMINISTRATEUR]
+2026-02-19 13:18:59,255 [ERROR] database.connection — Erreur de transaction: Entity namespace for "students" has no property "payment_status"
+2026-02-19 13:18:59,255 [ERROR] views.dashboards — Erreur stats secrétaire: Entity namespace for "students" has no property "payment_status"
+2026-02-19 13:18:59,377 [INFO] views.student_management — 🔄 Rechargement de la liste des élèves...
+2026-02-19 13:18:59,521 [INFO] utils.scheduler — Planificateur arrêté
+2026-02-19 13:18:59,537 [INFO] __main__ — Application fermée proprement
+2026-02-19 13:19:18,663 [INFO] database.init_db — 🎉 Initialisation terminée!
+2026-02-19 13:19:18,663 [INFO] __main__ — ✅ Base de données initialisée
+2026-02-19 13:19:18,663 [INFO] utils.scheduler — ✅ Planificateur démarré
+2026-02-19 13:19:18,663 [INFO] __main__ — ✅ Planificateur de tâches démarré
+2026-02-19 13:19:26,396 [INFO] __main__ — ✅ Connexion: rakoto maminiaina [SECRETAIRE]
+2026-02-19 13:19:26,472 [ERROR] database.connection — Erreur de transaction: Entity namespace for "students" has no property "payment_status"
+2026-02-19 13:19:26,472 [ERROR] views.dashboards — Erreur stats secrétaire: Entity namespace for "students" has no property "payment_status"
+2026-02-19 13:19:26,620 [INFO] views.student_management — 🔄 Rechargement de la liste des élèves...
+2026-02-19 13:19:26,691 [INFO] utils.scheduler — Planificateur arrêté
+2026-02-19 13:19:26,693 [INFO] __main__ — Application fermée proprement
+2026-02-19 13:19:47,420 [INFO] database.init_db — 🎉 Initialisation terminée!
+2026-02-19 13:19:47,420 [INFO] __main__ — ✅ Base de données initialisée
+2026-02-19 13:19:47,435 [INFO] utils.scheduler — ✅ Planificateur démarré
+2026-02-19 13:19:47,435 [INFO] __main__ — ✅ Planificateur de tâches démarré
+2026-02-19 13:19:56,269 [INFO] __main__ — ✅ Connexion: rajarison willy noe [DIRECTEUR]
+2026-02-19 13:19:56,601 [INFO] views.student_management — 🔄 Rechargement de la liste des élèves...
+2026-02-19 13:19:56,682 [INFO] utils.scheduler — Planificateur arrêté
+2026-02-19 13:19:56,683 [INFO] __main__ — Application fermée proprement
